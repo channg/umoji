@@ -1,0 +1,11 @@
+{
+  "name": "umoji",
+  "version": "1.0.0",
+  "description": "emoji to unicode",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

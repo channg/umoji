@@ -1,6 +1,9 @@
 ### umoji
 😀A lib convert emoji unicode to Surrogate pairs
-
+> u can use with npm 
+```
+npm install umoji --save
+```
 #### method
 * emojiToUnicode
 > emoji to Surrogate pairs unicode

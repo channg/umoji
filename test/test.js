@@ -5,5 +5,5 @@ var umoji  = require('../index')
 fromcodepoint()
 emojiToUnicode('😀😀😀😀😀sdksk');
 toSurrogatePairs(0x1F601)
-console.log(String.fromCodePoint(0x1F601))
+console.log(String.fromCodePoint(128513))
 console.log(umoji)

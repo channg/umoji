@@ -1,9 +1,9 @@
 var emojiToUnicode  = require('./src/emojiToUnicode')
 var toSurrogatePairs  = require('./src/toSurrogatePairs')
 var fromcodepoint  = require('./src/fromcodepoint')
-var umeji = {
+var umoji = {
   emojiToUnicode:emojiToUnicode,
   toSurrogatePairs:toSurrogatePairs,
   fromcodepoint:fromcodepoint
 }
-exports.umoji = umeji
+exports.umoji = umoji

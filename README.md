@@ -1,9 +1,17 @@
-## umoji
+<h1 align="center">umoji</center></h3>
+
+<p align="center">
+ <a href="https://www.npmjs.com/package/umoji"><img alt="npm" src="https://img.shields.io/npm/v/umoji.svg?style=flat-square"></a>
+</p>
+
+
 😀A lib convert emoji unicode to Surrogate pairs
-> u can use with npm 
+* u can use with npm 
 ```
 npm install umoji --save
 ```
+* use cdn
+	 https://unpkg.com/umoji@2.0.0/dist/umoji.umd.js
 #### method
 * emojiToUnicode
 > emoji to Surrogate pairs unicode

@@ -6,4 +6,4 @@ var umoji = {
   toSurrogatePairs:toSurrogatePairs,
   fromcodepoint:fromcodepoint
 }
-exports.umoji = umoji
+module.exports = umoji
